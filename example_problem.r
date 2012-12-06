@@ -49,3 +49,6 @@ mst2 <- minimum.spanning.tree(gr2)
 
 plot(gr2)
 plot(mst2)
+
+
+# This script was originally sent to Y. Rahmatallah of University of Arkansas Medical School on Dec 6, 2012.
