@@ -1,6 +1,6 @@
 # Understanding GSA using MSTs
 
-
+A recently published paper proposed using the Minimum Spanning Tree as a method for doing [multivariate gene set analyses].
 require(plyr)
 # need genes, samples, and classes
 
